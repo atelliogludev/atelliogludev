@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### My Last Project is Crypto Currency Tracker with React JS
-[Crypto Currency Demo Home]: https://atelliogludev.github.io/react-crypto-currencies-tracker/
-[Crypto Currency Demo Detail Page]: https://atelliogludev.github.io/react-crypto-currencies-tracker/detail/bitcoin
+[Crypto Currency Demo Home](https://atelliogludev.github.io/react-crypto-currencies-tracker/)
+[Crypto Currency Demo Detail Page](https://atelliogludev.github.io/react-crypto-currencies-tracker/detail/bitcoin)
 
 - 🔭 I’m currently working on Some Opensource Projects
 - 📫 How to reach me: ahmettellioglu6189@gmail.com
